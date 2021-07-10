@@ -15,9 +15,9 @@ I work in a lot of projects that help to people in some risk situations, womens 
 the systems works on cloud compute and techs that Angular and Java. 
 </p>
 <p>
-Can you learn more about or try to contactme for tech works and commissions  whatsapp +57 31957009544.
+You can learn more about or try to contactme for tech works and commissions  whatsapp +57 31957009544.
 </p>
 <p>
-Can you see my art on instagram https://www.instagram.com/alejob600/
+You can see my art on instagram https://www.instagram.com/alejob600/
 I love stydy every time, 🌱 I’m currently learning in AWS Machine Learning Foundations Nanodegree Program with Python, C++, Java and others.
 </p>
