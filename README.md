@@ -6,18 +6,10 @@
 
 </p>
 <p align="justify">
-Software developer, MINTIC-Colombia Talent's, work in Java, SpringBoot, Javascript, node, react, Angular (better).
-I love create  art in canvas oil paint (realistic form).
-Freelance mode for information systems and commissions for art.
-</p>
+Software developer, MINTIC-Colombia Talent's, work in Java, SpringBoot, Javascript, node, react, Angular (better). I love create art in canvas oil paint (realistic form). Freelance mode for information systems and commissions for art.
 <p>
-I work in a lot of projects that help to people in some risk situations, womens and kids specially. 
-the systems works on cloud compute and techs that Angular and Java. 
+I work in a lot of projects that help to people in some risk situations, women and kids specially. the systems work on cloud compute and techs that Angular and Java.
 </p>
-<p>
-You can learn more about or try to contactme for tech works and commissions  whatsapp +57 31957009544.
-</p>
-<p>
-You can see my art on instagram https://www.instagram.com/alejob600/
-I love stydy every time, 🌱 I’m currently learning in AWS Machine Learning Foundations Nanodegree Program with Python, C++, Java and others.
-</p>
+You can learn more about or try to contact me for tech works and commissions WhatsApp +57 31957009544.
+
+You can see my art on Instagram https://www.instagram.com/alejob600/ I love study every time, 🌱 I’m currently learning in AWS Machine Learning Foundations Nanodegree Program with Python, C++, Java and others.
